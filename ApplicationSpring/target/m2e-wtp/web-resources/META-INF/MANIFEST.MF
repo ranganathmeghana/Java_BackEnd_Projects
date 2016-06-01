@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: meghana_ranganath
+Build-Jdk: 1.8.0_40
+Class-Path: spring-context-4.1.1.RELEASE.jar spring-beans-4.1.1.RELEAS
+ E.jar spring-core-4.1.1.RELEASE.jar spring-expression-4.1.1.RELEASE.j
+ ar spring-aop-4.1.1.RELEASE.jar aopalliance-1.0.jar spring-webmvc-4.1
+ .1.RELEASE.jar spring-web-4.1.1.RELEASE.jar jstl-1.2.jar commons-logg
+ ing-1.1.3.jar
+Created-By: Maven Integration for Eclipse
+

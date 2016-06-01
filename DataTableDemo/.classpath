@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/Users/meghana_ranganath/Desktop/untitled folder/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="/Users/meghana_ranganath/Desktop/untitled folder/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/meghana_ranganath/Desktop/untitled folder/classes12.jar"/>
+	<classpathentry kind="lib" path="/Users/meghana_ranganath/Desktop/untitled folder/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/meghana_ranganath/Desktop/untitled folder/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/meghana_ranganath/Desktop/untitled folder/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/meghana_ranganath/Desktop/untitled folder/hibernate3.jar"/>
+	<classpathentry kind="lib" path="/Users/meghana_ranganath/Desktop/untitled folder/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="/Users/meghana_ranganath/Desktop/untitled folder/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/meghana_ranganath/Desktop/untitled folder/junit-4.9b2.jar"/>
+	<classpathentry kind="lib" path="/Users/meghana_ranganath/Desktop/untitled folder/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/Users/meghana_ranganath/Desktop/untitled folder/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

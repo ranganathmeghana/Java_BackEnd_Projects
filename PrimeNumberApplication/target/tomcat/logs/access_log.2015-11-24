@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [24/Nov/2015:15:03:15 +0530] "GET /PrimeNumberApplication/ HTTP/1.1" 200 426 http-bio-8080-exec-1 477
+0:0:0:0:0:0:0:1 - - [24/Nov/2015:15:03:21 +0530] "POST /PrimeNumberApplication/GetPrimeNumbers HTTP/1.1" 404 5 http-bio-8080-exec-2 17
