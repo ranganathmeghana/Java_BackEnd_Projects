@@ -1,2 +1,3 @@
-This repository contains sample projects implemented in Java Spring Framework. 
-The projects also implement RESTful Webservices and REST template of Java Spring. 
+- This repository contains sample projects implemented in Java Spring Framework. 
+- Projects also implement RESTful Webservices and REST template of Java Spring. 
+- Implementation using MongoDB in Java Spring Framework.
